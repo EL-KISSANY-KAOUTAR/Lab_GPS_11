@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GeoTracker Pro</string>
+    <string name="title_activity_maps">Carte des positions</string>
+    <string name="provider_enabled">Le fournisseur %s est activé</string>
+    <string name="provider_disabled">Le fournisseur %s est désactivé</string>
+    <string name="provider_new_status">Le fournisseur %1$s a un nouveau statut: %2$s</string>
+    <string name="new_location">Nouvelle position : Lat = %1$.6f, Lon = %2$.6f, Alt = %3$.2f (Précision: %4$.1f m)</string>
+    <string name="latitude_value">%1$.6f</string>
+    <string name="longitude_value">%1$.6f</string>
+
+    <!-- UI Strings -->
+    <string name="status_title">Statut de la localisation</string>
+    <string name="label_latitude">Latitude</string>
+    <string name="label_longitude">Longitude</string>
+    <string name="btn_show_map">Afficher sur la carte</string>
+    <string name="sync_info">Les données sont automatiquement synchronisées avec le serveur.</string>
+</resources>

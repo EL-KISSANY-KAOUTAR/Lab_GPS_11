@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme Colors (Brown Version) -->
+    <color name="primaryColor">#795548</color>
+    <color name="primaryDarkColor">#4E342E</color>
+    <color name="secondaryColor">#A1887F</color>
+    <color name="backgroundColor">#121212</color>
+    <color name="surfaceColor">#1E1E1E</color>
+
+    <!-- UI Colors -->
+    <color name="black_deep">#121212</color>
+    <color name="black_surface">#1E1E1E</color>
+    <color name="black_pure">#000000</color>
+    <color name="gold_primary">#795548</color> <!-- Replaced Gold with Brown -->
+    <color name="white_pure">#FFFFFF</color>
+    <color name="divider_dark">#2C2C2C</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
